@@ -11,6 +11,8 @@ I'm Filbert from Tanzania, and i do Web and App development along with the stron
 * 🔲 React
 * 💻 HTML , CSS , JS
 * 🌍 UI & UX design
+
+  
 ~~On progress~~
 - 🌱 I’m currently learning *network switching and security*
 ## Example of work
