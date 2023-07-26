@@ -4,7 +4,7 @@ I'm Filbert from Tanzania, and i do Web and App development along with the stron
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilbertAyo)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, Filbert Ayo
-#### Design and Development
+![Design and Development]
 (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 I'm Filbert from Tanzania, and i do Web and App development along with the strong background in graphics designing.  I love creating visually stunning and functional web applications, which has led me to dabble in various programming languages and frameworks.
 
