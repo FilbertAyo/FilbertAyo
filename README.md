@@ -5,7 +5,6 @@ I'm Filbert from Tanzania, and i do Web and App development along with the stron
 
 ### Hi there 👋, Filbert Ayo
 #### Design and Development
-https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 I'm Filbert from Tanzania, and i do Web and App development along with the strong background in graphics designing.  I love creating visually stunning and functional web applications, which has led me to dabble in various programming languages and frameworks.
 
 Skills: JAVA / PHP / JS / HTML / CSS
