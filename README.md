@@ -8,7 +8,7 @@ I'm Filbert from Tanzania, and i do Web and App development along with the stron
 
 ## Skills and Experience
 * ⭐ PHP
-* 🔲 React
+* 🔲 Bootstrap
 * 💻 HTML , CSS , JS
 * 🌍 UI & UX design
 
