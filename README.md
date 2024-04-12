@@ -11,8 +11,7 @@ I'm Filbert from Tanzania, and i do Web and App development along with the stron
 * 🌍 UI & UX design
 
   
-~~On progress~~
-- 🌱 I’m currently learning *network switching and security*
+
 <!--## Example of work
 <img src = "https://github.com/FilbertAyo/FilbertAyo/blob/main/example.png" width = "256"/>-->
 
