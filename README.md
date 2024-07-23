@@ -7,7 +7,8 @@ I'm Filbert from Tanzania, and i do Web and App development along with the stron
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilbertAyo)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Skills and Experience
-* Laravel
+* Laravel (PHP)
+* Flutter (Dart)
 * 🌍 UI & UX design
 
   
